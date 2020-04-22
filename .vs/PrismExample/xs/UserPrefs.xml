@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{23ACC1C1-9868-423A-AB02-DAC91C0A98A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.PrismExample.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28_1" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrismExample" expanded="True" selected="True">
+            <Node name="PrismExample" expanded="True" />
+            <Node name="PrismExample.Android" expanded="True" />
+            <Node name="PrismExample.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrismExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C7D8FF2E-278F-4C85-972F-75195B20D6B8" />
+  <MonoDevelop.Ide.ItemProperties.PrismExample HideGettingStarted="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

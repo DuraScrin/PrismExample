@@ -1,0 +1,16 @@
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/bin/Debug/netstandard2.0/PrismExample.deps.json
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/bin/Debug/netstandard2.0/PrismExample.dll
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/bin/Debug/netstandard2.0/ref/PrismExample.dll
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/bin/Debug/netstandard2.0/PrismExample.pdb
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/Views/BookDetailsPage.xaml.g.cs
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/Views/BookPage.xaml.g.cs
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/Views/NewBookPage.xaml.g.cs
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/PrismExample.csproj.CoreCompileInputs.cache
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/PrismExample.AssemblyInfoInputs.cache
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/PrismExample.AssemblyInfo.cs
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/PrismExample.dll
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/ref/PrismExample.dll
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/PrismExample.pdb
+/Users/idura/Documents/Xamarin projects/PrismExample/PrismExample/obj/Debug/netstandard2.0/PrismExample.csprojAssemblyReference.cache
