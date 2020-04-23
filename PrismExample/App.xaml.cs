@@ -23,7 +23,7 @@ namespace PrismExample
             InitializeComponent();
 
             //#82
-            NavigationService.NavigateAsync("NavigationPage/BooksPage");
+            NavigationService.NavigateAsync("NavigationPage/BookPage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
